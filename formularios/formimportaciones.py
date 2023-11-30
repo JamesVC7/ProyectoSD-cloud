@@ -63,3 +63,4 @@ class FormularioSitioImporteDesign():
         print("Cantidad:", self.entryCantidad.get())
         print("Fecha:", self.entryFecha.get())
         print("Lugar:", self.entryLugar.get())
+        print("Datos Guardados")
